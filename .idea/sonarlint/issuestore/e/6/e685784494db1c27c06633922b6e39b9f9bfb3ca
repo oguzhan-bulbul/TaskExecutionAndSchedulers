@@ -1,0 +1,7 @@
+
+ƒ
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "syncTaskExecutor".(íé¥Éúÿÿÿÿ
+h
+java:S1128"RRemove this unused import 'org.springframework.core.task.SimpleAsyncTaskExecutor'.(¬·âì
+b
+java:S1128"GRemove this unused import 'org.springframework.core.task.TaskExecutor'.(ÆîûÆûÿÿÿÿ

@@ -1,0 +1,13 @@
+
+E
+java:S3740'"/Provide the parametrized type for this generic.(ÄÌÌß
+D
+java:S37408"/Provide the parametrized type for this generic.(³½V
+c
+java:S2259"GA "NullPointerException" could be thrown; "jobDetail" is nullable here.(—¤óäıÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(úš†’8²®‡ñÕ0
+h
+java:S6204m"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÆêÕş
+_
+java:S1128"=Remove this unused import 'jakarta.annotation.PostConstruct'.(û²ñüşÿÿÿÿ8Ñ®‡ñÕ0

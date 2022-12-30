@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="threadPoolTaskExecutor" />
+        <module name="executorService" />
+        <module name="distributedSchedulerNode2" />
+        <module name="taskSchedulingWithAnnotation" />
+        <module name="distributedSchedulerNode1" />
+        <module name="simpleAsyncTaskExecutor" />
+        <module name="syncTaskExecutor" />
+        <module name="taskScheduling" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="distributedSchedulerNode1" target="17" />
+      <module name="distributedSchedulerNode2" target="17" />
+      <module name="executorService" target="19" />
+      <module name="simpleAsyncTaskExecutor" target="17" />
+      <module name="syncTaskExecutor" target="17" />
+      <module name="taskScheduling" target="17" />
+      <module name="taskSchedulingWithAnnotation" target="17" />
+      <module name="threadPoolTaskExecutor" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="distributedSchedulerNode1" options="-parameters" />
+      <module name="distributedSchedulerNode2" options="-parameters" />
+      <module name="executorService" options="-parameters" />
+      <module name="simpleAsyncTaskExecutor" options="-parameters" />
+      <module name="syncTaskExecutor" options="-parameters" />
+      <module name="taskScheduling" options="-parameters" />
+      <module name="taskSchedulingWithAnnotation" options="-parameters" />
+      <module name="threadPoolTaskExecutor" options="-parameters" />
+    </option>
+  </component>
+</project>

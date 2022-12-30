@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/distributedSchedulerNode1/distributedSchedulerNode1.iml" filepath="$PROJECT_DIR$/distributedSchedulerNode1/distributedSchedulerNode1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributedSchedulerNode2/distributedSchedulerNode2.iml" filepath="$PROJECT_DIR$/distributedSchedulerNode2/distributedSchedulerNode2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executorService/executorService.iml" filepath="$PROJECT_DIR$/executorService/executorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleAsyncTaskExecutor/simpleAsyncTaskExecutor.iml" filepath="$PROJECT_DIR$/simpleAsyncTaskExecutor/simpleAsyncTaskExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syncTaskExecutor/syncTaskExecutor.iml" filepath="$PROJECT_DIR$/syncTaskExecutor/syncTaskExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskScheduling/taskScheduling.iml" filepath="$PROJECT_DIR$/taskScheduling/taskScheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskSchedulingWithAnnotation/taskSchedulingWithAnnotation.iml" filepath="$PROJECT_DIR$/taskSchedulingWithAnnotation/taskSchedulingWithAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadPoolTaskExecutor/threadPoolTaskExecutor.iml" filepath="$PROJECT_DIR$/threadPoolTaskExecutor/threadPoolTaskExecutor.iml" />
+    </modules>
+  </component>
+</project>
